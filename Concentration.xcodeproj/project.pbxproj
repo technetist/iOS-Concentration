@@ -12,6 +12,7 @@
 		7A980D752107CF7F00BC0EAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A980D732107CF7F00BC0EAA /* Main.storyboard */; };
 		7A980D772107CF8000BC0EAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A980D762107CF8000BC0EAA /* Assets.xcassets */; };
 		7A980D7A2107CF8000BC0EAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A980D782107CF8000BC0EAA /* LaunchScreen.storyboard */; };
+		7A980D82210C270400BC0EAA /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A980D81210C270400BC0EAA /* Concentration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7A980D762107CF8000BC0EAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A980D792107CF8000BC0EAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A980D7B2107CF8000BC0EAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A980D81210C270400BC0EAA /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7A980D6F2107CF7F00BC0EAA /* AppDelegate.swift */,
 				7A980D712107CF7F00BC0EAA /* ViewController.swift */,
 				7A980D732107CF7F00BC0EAA /* Main.storyboard */,
+				7A980D81210C270400BC0EAA /* Concentration.swift */,
 				7A980D762107CF8000BC0EAA /* Assets.xcassets */,
 				7A980D782107CF8000BC0EAA /* LaunchScreen.storyboard */,
 				7A980D7B2107CF8000BC0EAA /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				7A980D722107CF7F00BC0EAA /* ViewController.swift in Sources */,
 				7A980D702107CF7F00BC0EAA /* AppDelegate.swift in Sources */,
+				7A980D82210C270400BC0EAA /* Concentration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
